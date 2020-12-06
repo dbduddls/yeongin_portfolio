@@ -1,0 +1,257 @@
+body{
+    font-family: "맑은 고딕", "고딕", "굴림", "TRUEC HAN", "Unic", "DXPnM-KSCpc-EUC-H";
+    background-color: #c39478;
+}
+
+header{
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #c39478;
+    padding: 10px;
+    overflow: hidden;
+    table-layout: #ffffff;
+    position: center;
+    text-align: center;
+}
+
+header h1{
+    width: 100%;
+    color: #ffffff;
+    text-align: center;
+    float: none;
+}
+header h2{
+    width: 100%;
+    color: #ffffff;
+    text-align: right;
+    font-size: medium;
+    font-family: "DXPnM-KSCpc-EUC-H";
+}
+header nav{
+    width: 100%;
+    float: center;
+}
+
+nav ul{
+    list-style-type: none;
+    color: white;
+}
+
+nav ul li{
+    display: inline;
+    float: center;
+    margin: 30px;
+    font-size: large;
+}
+
+nav ul li a{
+    font-family:"고딕";
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
+xmp{
+    font-family: "고딕";
+    font-size: large;
+    color: white;
+    width: 20%;
+    position: center;
+}
+p{
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    position: center;
+    color: white;
+}
+
+section li a{
+    width: 20%;
+    position: center;
+    text-align: left;
+    color: white;
+}
+
+
+footer{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+ul{
+    list-style-type: disc;
+}
+
+@font-face{
+    font-family: "LAB도레미" ;
+    src:url('LAB도레미.ttf');
+    font-weight: normal;
+}
+@font-face{
+    font-family: "TRUEC HAN";
+    src:url('TRUEC HAN.ttf');
+    font-weight: normal;
+}
+@font-face{
+    font-family: "Unic" ;
+    src:url('Unic.ttf');
+    font-weight: normal;
+}
+
+body{
+    font-family: TRUEC HAN ;
+}
+
+.medium{
+    font-size: x-large;
+    text-align: center;
+    color: #c44f34;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+     text-decoration: underline;
+}
+
+.small{
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+}
+
+.large{
+    font-family: Unic ;
+    font-size: medium;
+    text-align: center;
+    text-decoration: line-through;
+    letter-spacing: 0.3em;
+    line-height: 100%;
+}
+
+.xx-large{
+    font-family: TRUEC HAN;
+    font-size: xx-large;
+    text-align: center;
+   line-height: 180%;
+}
+
+h1 ul li a{
+    font-variant: small-caps;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+table{
+    width: 400px;
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+iframe{
+    text-align: center;
+    height: 500px;
+    width: 800px;
+    border: none;
+    position: center;
+}
+
+#logo{
+    margin-right: auto;
+    margin-left: auto;
+        width: 1000px;
+    height:700px;
+}
+article{
+    width: 100%;
+    text-align: center;
+}
+#logo1{
+    width: 500px;
+    height:300px;
+}
+#logo2{
+    width: 480px;
+    height:300px;
+}
+#logo3{
+    width: 500px;
+    height:380px;
+}
+#logo4{
+    width: 380px;
+    height: 500px;
+}
+#logo5{
+    width: 630px;
+    height: 400px;
+}
+#logo6{
+    width: 350px;
+    height: 500px;
+}
+#logo7{
+    width: 500px;
+    height: 380px;
+}
+#logo8{
+    width:250px;
+    height: 150px;
+}
+#logo9{
+    width: 250px;
+    height: 300px;
+}
+#logo10{
+    width: 350px;
+    height: 250px;
+}
+#logo11{
+    width: 1000px;
+}
+#img{
+      margin-right: auto;
+    margin-left: auto;
+        width: 500px;
+    height:700px;
+}
+
+.grid{
+    text-align: left;
+    font-size: 20px;
+    float: left;
+}
+.grid1{
+    text-align: left;
+    font-size: 20px;
+    float: right;
+}
+.grid2{
+    width: 700px;
+    text-align: left;
+    font-size: 20px;
+    float: right;
+}
+section{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid #ffffff;
+    padding: 2px;
+    position: center;
+    text-align: center;
+    color: white;
+}
+
+
